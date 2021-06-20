@@ -1,0 +1,70 @@
+.contacto{
+    border-right: 3px solid #EAEAEA;
+    padding: 10px 30px;
+    max-width: 800px;
+    float: left;
+    position: absolute;
+    top: 300px;
+ }
+
+ .contacto p{
+     margin: 30px 50px;
+ }
+
+ h2{
+     text-align: center;
+     color: #5D602B;
+     padding-bottom: 5px;
+ }
+ 
+ .info{
+     margin-bottom: 15px;
+     color: #5D602B;
+     text-align: center;
+ }
+ 
+ .info i{
+     background-color: #FFFFFF;
+     padding: 10px;
+     border-radius: 50%;
+     margin-right: 10px;
+     color: #895661;
+     font-size: 16px;
+ }
+
+ .ref{
+     color: #5D602B;
+     text-align: center;
+ }
+ 
+ .ref i{
+    border-radius: 50%;
+    margin-right: 10px;
+    color: #895661;
+ }
+ 
+ .rnom{
+     font-weight: 500;
+ }
+ 
+ .rcargo{
+     padding-left: 45px;
+     text-align: center;
+ }
+
+ .rcargo i{
+    background-color: #FFFFFF;
+    color:  #895661;
+    padding: 10px;
+ }
+ 
+ img{
+    margin-left: 10px;
+    margin-right: 10px;
+    }
+
+a img{
+    background-color: #FFFFFF;
+    border-radius: 100%;  
+}
+ 
